@@ -21,6 +21,15 @@ h3 {
 	font-family: 'Montserrat', sans-serif;
 
 }
+.pic {
+	border-radius: 100%;
+}
+/*.profile {
+	border-radius: 100%;
+}*/
+.computer {
+	border-radius: 100%;
+}
 /*p {
 	background-color: red;
 }*/
@@ -35,15 +44,18 @@ h3 {
 }
 
 .middle-container {
-	background-color: red;
+	/*background-color: red;
 	height: 200px;
-	width: 200px;
+	width: 200px;*/
+	text-align: center;
 }
 
 .bottom-container {
-	background-color: blue;
+	/*background-color: blue;
 	height: 200px;
-	width: 200px;
+	width: 200px;*/
+	text-align: center;
+
 }
 .pro {
 	text-decoration: underline;
