@@ -97,8 +97,13 @@ a:hover {
 	margin: 100px auto 100px auto;
 	text-align: left;
 }
+
 .pro {
 	text-decoration: underline;
+}
+
+.contact-me {
+	margin-bottom: 100px;
 }
 
 .contact-message {
